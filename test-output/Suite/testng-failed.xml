@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="testng3(failed)">
+    <classes>
+      <class name="executions.Upcmngmtng_in_CP_TS_102">
+        <methods>
+          <include name="CRe4_324"/>
+          <include name="CRe4_333_334"/>
+          <include name="CRe4_337_338"/>
+          <include name="CRe4_322"/>
+          <include name="CRe4_320"/>
+          <include name="CRe4_323"/>
+          <include name="CRe4_321"/>
+          <include name="beforeMethod"/>
+          <include name="CRe4_317_318_319"/>
+        </methods>
+      </class> <!-- executions.Upcmngmtng_in_CP_TS_102 -->
+      <class name="executions.Reschedule_mtng_TS_98">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- executions.Reschedule_mtng_TS_98 -->
+      <class name="executions.Reschedule_mtng_mail_TS_143">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="CRe4_152_153"/>
+        </methods>
+      </class> <!-- executions.Reschedule_mtng_mail_TS_143 -->
+      <class name="executions.Upcmngmtng_inMem_TS_104">
+        <methods>
+          <include name="CRe4_360"/>
+          <include name="CRe4_355_356"/>
+          <include name="CRe4_362"/>
+          <include name="beforeMethod"/>
+          <include name="CRe4_357"/>
+          <include name="CRe4_368"/>
+          <include name="CRe4_369_373"/>
+          <include name="CRe4_375_376"/>
+          <include name="CRe4_367"/>
+          <include name="CRe4_361"/>
+        </methods>
+      </class> <!-- executions.Upcmngmtng_inMem_TS_104 -->
+      <class name="executions.Cmpltdmtng_inAdmin_TS_101">
+        <methods>
+          <include name="CRe4_311_313"/>
+          <include name="beforeMethod"/>
+          <include name="CRe4_306"/>
+          <include name="CRe4_307"/>
+          <include name="CRe4_302"/>
+          <include name="CRe4_305"/>
+          <include name="CRe4_304"/>
+          <include name="CRe4_315"/>
+        </methods>
+      </class> <!-- executions.Cmpltdmtng_inAdmin_TS_101 -->
+      <class name="executions.Schedule_mtng_TS_95">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="CRe4_167_168_169"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- executions.Schedule_mtng_TS_95 -->
+      <class name="executions.Upcmngmtng_in_ms_TS_97">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- executions.Upcmngmtng_in_ms_TS_97 -->
+      <class name="executions.Upcmngmtng_in_admin_TS_100">
+        <methods>
+          <include name="CRe4_279_280_281"/>
+          <include name="CRe4_283"/>
+          <include name="CRe4_286"/>
+          <include name="CRe4_293_294_295"/>
+          <include name="CRe4_298_299_300"/>
+          <include name="beforeMethod"/>
+          <include name="CRe4_284"/>
+          <include name="CRe4_285"/>
+          <include name="CRe4_296"/>
+        </methods>
+      </class> <!-- executions.Upcmngmtng_in_admin_TS_100 -->
+      <class name="executions.Schedule_meeting_mail_TS_142">
+        <methods>
+          <include name="CRe4_150_151"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- executions.Schedule_meeting_mail_TS_142 -->
+      <class name="executions.Cmpltdmtng_inCP_TS_103">
+        <methods>
+          <include name="CRe4_347"/>
+          <include name="CRe4_353_354"/>
+          <include name="CRe4_342"/>
+          <include name="CRe4_343"/>
+          <include name="CRe4_344"/>
+          <include name="CRe4_345"/>
+          <include name="CRe4_349_350"/>
+          <include name="CRe4_340"/>
+          <include name="beforeMethod"/>
+          <include name="CRe4_346"/>
+        </methods>
+      </class> <!-- executions.Cmpltdmtng_inCP_TS_103 -->
+      <class name="executions.Cmpltdmtng_inMem_TS_105">
+        <methods>
+          <include name="CRe4_380"/>
+          <include name="beforeMethod"/>
+          <include name="CRe4_390"/>
+          <include name="CRe4_381"/>
+          <include name="CRe4_384"/>
+          <include name="CRe4_383"/>
+          <include name="CRe4_387"/>
+          <include name="CRe4_382"/>
+          <include name="CRe4_378"/>
+          <include name="CRe4_391_392"/>
+        </methods>
+      </class> <!-- executions.Cmpltdmtng_inMem_TS_105 -->
+      <class name="executions.Cmpletdmtng_inMS_TS_99">
+        <methods>
+          <include name="CRe4_249"/>
+          <include name="CRe4_259"/>
+          <include name="CRe4_247"/>
+          <include name="CRe4_269"/>
+          <include name="CRe4_268"/>
+          <include name="CRe4_256"/>
+          <include name="CRe4_267"/>
+          <include name="CRe4_266"/>
+          <include name="CRe4_277"/>
+          <include name="beforeMethod"/>
+          <include name="CRe4_265"/>
+          <include name="CRe4_276"/>
+          <include name="CRe4_253"/>
+          <include name="CRe4_264"/>
+          <include name="CRe4_275"/>
+          <include name="CRe4_252"/>
+          <include name="CRe4_263"/>
+          <include name="CRe4_274"/>
+          <include name="CRe4_262"/>
+          <include name="CRe4_273"/>
+          <include name="CRe4_250"/>
+          <include name="CRe4_272"/>
+          <include name="CRe4_271"/>
+          <include name="CRe4_270"/>
+        </methods>
+      </class> <!-- executions.Cmpletdmtng_inMS_TS_99 -->
+      <class name="executions.Generate_agenda_TS_96">
+        <methods>
+          <include name="tearDown"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- executions.Generate_agenda_TS_96 -->
+    </classes>
+  </test> <!-- testng3(failed) -->
+</suite> <!-- Failed suite [Suite] -->
